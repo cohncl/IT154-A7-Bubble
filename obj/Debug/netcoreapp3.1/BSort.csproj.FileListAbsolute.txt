@@ -1,0 +1,11 @@
+C:\Users\Neil Michaels\source\repos\BSort\bin\Debug\netcoreapp3.1\BSort.exe
+C:\Users\Neil Michaels\source\repos\BSort\bin\Debug\netcoreapp3.1\BSort.deps.json
+C:\Users\Neil Michaels\source\repos\BSort\bin\Debug\netcoreapp3.1\BSort.runtimeconfig.json
+C:\Users\Neil Michaels\source\repos\BSort\bin\Debug\netcoreapp3.1\BSort.runtimeconfig.dev.json
+C:\Users\Neil Michaels\source\repos\BSort\bin\Debug\netcoreapp3.1\BSort.dll
+C:\Users\Neil Michaels\source\repos\BSort\bin\Debug\netcoreapp3.1\BSort.pdb
+C:\Users\Neil Michaels\source\repos\BSort\obj\Debug\netcoreapp3.1\BSort.csprojAssemblyReference.cache
+C:\Users\Neil Michaels\source\repos\BSort\obj\Debug\netcoreapp3.1\BSort.AssemblyInfoInputs.cache
+C:\Users\Neil Michaels\source\repos\BSort\obj\Debug\netcoreapp3.1\BSort.AssemblyInfo.cs
+C:\Users\Neil Michaels\source\repos\BSort\obj\Debug\netcoreapp3.1\BSort.dll
+C:\Users\Neil Michaels\source\repos\BSort\obj\Debug\netcoreapp3.1\BSort.pdb
